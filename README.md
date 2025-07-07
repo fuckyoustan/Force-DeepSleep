@@ -1,6 +1,6 @@
 ![banner](https://raw.githubusercontent.com/fuckyoustan/Force-DeepSleep/refs/heads/main/banner.png)
 
-**🛌 Force Deepsleep – Make Your Droid Nap Like a Champ**
+# **Force Deepsleep🛌**
 
 Tired of your Android actin’ all hyper when it's supposed to chill? This Magisk module *forces* your device into proper deep sleep mode — no more random wakelocks, rogue apps, or battery-drainin’ nonsense.
 
