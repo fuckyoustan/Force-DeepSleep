@@ -1,0 +1,6 @@
+id=deepsleep
+name=Force DeepSleep
+version=v1.0
+versionCode=1
+author=@fuckyoustan
+description=Force deep idle trigger when screen off and auto RAM cleaner with whitelist support.
